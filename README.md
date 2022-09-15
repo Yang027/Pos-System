@@ -13,8 +13,6 @@ tip:<br>
 每個功能需要load其對應的資料,不然無法讀取！<br>
 密碼不可含有非法字元並且密碼長度必須超過4位數！<br>
 <br>
-有任何問題或是建議可以Email進行feedback!<br>
-mail:a108222027@mail.shu.edu.tw<br>
 
 6.16更新說明
 --
