@@ -14,7 +14,7 @@ tip:<br>
 密碼不可含有非法字元並且密碼長度必須超過4位數！<br>
 <br>
 有任何問題或是建議可以Email進行feedback!<br>
-mail:y1595657589@gmail.com<br>
+mail:a108222027@mail.shu.edu.tw<br>
 
 6.16更新說明
 --
